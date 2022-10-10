@@ -5,7 +5,7 @@
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
 }
-#ghbody {
+body {
   background: #E5E5E5;
   background-image: url("/gray-floral.png");
   padding: 50px;
@@ -56,7 +56,7 @@
     text-align: center;
     font-family: 'Nobile', sans-serif;
     font-style: italic;
-    font-size: 30px;
+    font-size: 70px;
     text-shadow: 
         4px 4px 0px rgba(0, 0, 0, .15),
         1px 1px 0 rgba(255, 200, 200, 255),
@@ -65,8 +65,8 @@
     color: #FFF;
 }
 #card-inside {
-    font-size: 0.5em;
-    line-height: 0.7;
+    font-size: 1.1em;
+    line-height: 1.4;
     font-family: 'Nobile';
     color: #331717;
     font-style: italic;
